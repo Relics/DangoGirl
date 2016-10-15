@@ -1,7 +1,7 @@
 DangoGirl
 =========
 
-This is an interesting game based on QT, which can run on both Linux and Windows platform.
+This is an interesting game based on QT, which can run on both Linux and Windows platform (totally two editions of the game).
 
 Character materials come from the "Clannad" or are self-made products.
 
